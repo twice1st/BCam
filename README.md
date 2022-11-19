@@ -13,3 +13,4 @@
 
 ## MÔ TẢ
 - Sử dụng 2 thư viện chủ yếu AForge để load ảnh từ camera và Emgu.CV để xử lí ảnh theo từng chức năng trên .NET Framework 4.7.2
+- Các chức năng có trong ứng dụng như chụp ảnh từ camera, chỉnh sửa cơ bản (phóng to, cắt ảnh, xóa,...)
