@@ -5,7 +5,7 @@
 ## MÔN HỌC
 * **Môn học:** C#
 
-## GIỚI THIỆU NHÓM 7
+## GIỚI THIỆU
 | MSSV      | Họ và Tên          | Github|
 | :-------------: |:-------------:|:-------------:|
 | 19522148     | Đào Văn Tài      |[Uranium1901](https://github.com/Uranium1901)|
